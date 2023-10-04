@@ -35,8 +35,8 @@
   </a>
 </p>
 
-### 🪙 Get unlimited access on  🔗 [@codeswithpankaj.com](https://www.codeswithpankaj.com/)  
-### 🪙 Learn to Code for Free  🔗 [@p4n.in](https://www.p4n.in/) 
+### 🔗 [@codeswithpankaj.com](https://www.codeswithpankaj.com/)  
+### 🔗 [@p4n.in](https://www.p4n.in/) 
 -----------------------------
 #### Choose what to learn Start learning the best programming languages.
 
