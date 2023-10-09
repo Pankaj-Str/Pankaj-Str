@@ -37,20 +37,7 @@
 
 ### 🔗 [@codeswithpankaj.com](https://www.codeswithpankaj.com/)  
 ### 🔗 [@p4n.in](https://www.p4n.in/) 
------------------------------
-#### Choose what to learn Start learning the best programming languages.
 
-| Rank | Learning Path |
-|-----:|---------------|
-|     1|      👉  [JAVA](https://github.com/Pankaj-Str/Learn-JAVA-SE#readme)      |
-|     2|      👉  [Learn Data Structures JAVA](https://github.com/Pankaj-Str/Learn-Data-Structures-JAVA)          |
-|     3|      👉  [C Programming](https://github.com/Pankaj-Str/Learn-C-Programming-p4n.in)        |
-|     4|      👉  [Learn Python Programming](https://github.com/Pankaj-Str/Learn_Python)        |
-|     5|      👉  [Java Script](https://github.com/Pankaj-Str/JavaScript)        |
-|     6|      👉  [Learn Java Programming](https://github.com/Pankaj-Str/Learn-JAVA-SE)        |
-|     7|      👉  [Nodejs Concepts](https://github.com/Pankaj-Str/Nodejs-Concepts)        |
-|     8|      👉  [Python - Data structures Alorithm Design](https://github.com/Pankaj-Str/Learn-DSA-Python)        |
-|     9|      👉  [Learn C++](https://github.com/Pankaj-Str/Learn-CPP)        |
-|     10|      👉  [C Programs: Practicing and solving problems](https://github.com/Pankaj-Str/C_Programs)        |
+
 
 
