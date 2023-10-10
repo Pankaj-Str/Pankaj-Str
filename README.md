@@ -1,10 +1,10 @@
 ![banner](https://github.com/Pankaj-Str/Pankaj-Str/assets/36913690/aced67ba-cb8d-4757-abbf-3b72f189734b)
 
 
-| Row 3, Col 1 | Row 3, Col 2 |![1](https://github.com/Pankaj-Str/Pankaj-Str/assets/36913690/63ae5509-f1a6-4149-a286-e54392f1eea6)|
-|-----------|-----------|-----------|
+| <p align="center">🚀 Pankaj Chouhan <br> Feeling like you're wandering through a coding labyrinth? Fear not, for I am here to be your guide and mentor on this exhilarating journey <p> through the digital realm. 👋| <img src="1.png" width="200" height="200" />|
+|-----------|-----------|
 
-<img src="https://github.com/Pankaj-Str/Pankaj-Str/raw/main/assets/36913690/63ae5509-f1a6-4149-a286-e54392f1eea6/1.png" width="200" height="200" />
+
 <p align="center"> 
   <a href="https://twitter.com/home">
     <img src="https://img.shields.io/badge/Twitter-465149?style=for-the-badge"/>
