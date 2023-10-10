@@ -35,9 +35,10 @@
   </a>
 </p>
 
-### 🔗 [@codeswithpankaj.com](https://www.codeswithpankaj.com/)  
-### 🔗 [@p4n.in](https://www.p4n.in/) 
+### 🔗 [@codeswithpankaj](https://www.codeswithpankaj.com/)  
 
+--------
+## My Recent Blog posts
 
 
 
