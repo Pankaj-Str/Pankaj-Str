@@ -39,45 +39,6 @@
 
 --------
 ## My Recent Blog posts
-## Table of Contents
-
-- [Python](#python)
-  - [Python Lists](#python-lists)
-  - [Pandas DataFrames](#pandas-dataframes)
-  - [Mastering NumPy](#mastering-numpy)
-  - [Python Pandas — DataFrame](#python-pandas-dataframe)
-  - [Python Pandas Series](#python-pandas-series)
-  - [Python Sets](#python-sets)
-
-- [SQL](#sql)
-  - [MySQL Views](#mysql-views)
-  - [SQL Joins](#sql-joins)
-  - [Database Constraints](#database-constraints)
-  - [Data Manipulation in SQL](#data-manipulation-in-sql)
-  - [SQL Table](#sql-table)
-  - [SQL Database Basic](#sql-database-basic)
-
-- [Tools](#tools)
-  - [10 Best AI Tools](#10-best-ai-tools)
-
-- [R Programming](#r-programming)
-  - [Import in R: From CSV to Databases](#import-in-r-from-csv-to-databases)
-  - [Mastering R Arrays](#mastering-r-arrays)
-  - [R Vectors](#r-vectors)
-
-- [PHP](#php)
-  - [Ajax live data search using jQuery PHP MySQL](#ajax-live-data-search-using-jquery-php-mysql)
-  - [PHP MySQL CRUD Application](#php-mysql-crud-application)
-
-- [JAVA](#java)
-  - [How to insert data into a MySQL table using Spring Data JPA](#how-to-insert-data-into-a-mysql-table-using-spring-data-jpa)
-  - [The JSP CRUD operation App](#the-jsp-crud-operation-app)
-
-- [Node JS](#node-js)
-  - [Node JS CRUD With MySQL](#node-js-crud-with-mysql)
-
----
-
 ## Python
 
 - [Python Lists](https://codeswithpankaj.medium.com/mastering-python-lists-a-comprehensive-guide-65b709ef65e7)
