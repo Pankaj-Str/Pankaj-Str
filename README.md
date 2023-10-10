@@ -21,7 +21,7 @@
 <p align="center"> 
 🚀 Pankaj Chouhan 
 
-#### Feeling like you're wandering through a coding labyrinth? Fear not, for I am here to be your guide and mentor on this exhilarating journey through the digital realm. 👋
+Feeling like you're wandering through a coding labyrinth? Fear not, for I am here to be your guide and mentor on this exhilarating journey through the digital realm.👋
 
 💻 As a Codecraft Wizard, I've honed the arcane arts of coding, and I'm ready to pass on my knowledge to empower you. Whether you're a novice seeking to lay a sturdy foundation or an adept developer aiming to ascend, I'm your trusty spellcaster.
 
