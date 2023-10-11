@@ -60,6 +60,8 @@ Feeling like you're wandering through a coding labyrinth? Fear not, for I am her
 - [Python Pandas — DataFrame](https://codeswithpankaj.medium.com/python-pandas-dataframe-6b7eb73a9393)
 - [Python Pandas Series](https://codeswithpankaj.medium.com/python-pandas-series-f2df7ddf4720)
 - [Python Sets](https://codeswithpankaj.medium.com/python-sets-569a3b5b81cd)
+- [Object-Oriented Programming (OOP) Concepts in Python](https://medium.com/@codeswithpankaj/mastering-object-oriented-programming-oop-concepts-in-python-28f8d5bfce7b)
+- [Python Dictionaries](https://medium.com/@codeswithpankaj/unleash-the-power-of-python-dictionaries-a-comprehensive-guide-with-examples-04adf6449de2)
 
 ## SQL
 
@@ -93,6 +95,7 @@ Feeling like you're wandering through a coding labyrinth? Fear not, for I am her
 ## Node JS
 
 - [Node JS CRUD With MySQL](https://codeswithpankaj.medium.com/node-js-crud-with-mysql-f605755e9fcb)
+
 
 
 
