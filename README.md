@@ -48,7 +48,21 @@ Feeling like you're wandering through a coding labyrinth? Fear not, for I am her
   </a>
 </p>
 
-### 🔗 [@codeswithpankaj](https://www.codeswithpankaj.com/)  
+### 🔗 [@codeswithpankaj](https://www.codeswithpankaj.com)
+----
+
+| Sn.No. | Tutorial Name                            |
+| ------ | ---------------------------------------- |
+| 1️⃣     | [C Programming Tutorial](https://github.com/Pankaj-Str/C-Programming-Tutorial)             |
+| 2️⃣     | [Learn JAVA SE](https://github.com/Pankaj-Str/Learn-JAVA-SE)                         |
+| 3️⃣     | [Complete Python Mastery](https://github.com/Pankaj-Str/Complete-Python-Mastery)       |
+| 4️⃣     | [SQL Tutorial](https://github.com/Pankaj-Str/SQL-tutorial)                               |
+| 5️⃣     | [Front-end Development Tutorial](https://github.com/Pankaj-Str/Front-end-Development-Tutorial) |
+| 6️⃣     | [Python Interview Questions](https://github.com/Pankaj-Str/Python-Interview-Questions)    |
+| 7️⃣     | [R Programming Tutorial](https://github.com/Pankaj-Str/R-Programming-Tutorial)           |
+| 8️⃣     | [Nodejs Concepts](https://github.com/Pankaj-Str/Nodejs-Concepts)                       |
+
+
 
 --------
 ## My Recent Blog posts
