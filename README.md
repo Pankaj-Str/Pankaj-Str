@@ -110,6 +110,10 @@ Feeling like you're wandering through a coding labyrinth? Fear not, for I am her
 
 - [Node JS CRUD With MySQL](https://codeswithpankaj.medium.com/node-js-crud-with-mysql-f605755e9fcb)
 
+## JavaScript
+- [JavaScript Shorthand Techniques for Efficient and Readable Code](https://codeswithpankaj.medium.com/javascript-shorthand-techniques-for-efficient-and-readable-code-ae64512df483)
+  
+
 
 
 
