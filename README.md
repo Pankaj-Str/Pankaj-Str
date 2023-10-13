@@ -76,7 +76,7 @@ Feeling like you're wandering through a coding labyrinth? Fear not, for I am her
 - [Python Sets](https://codeswithpankaj.medium.com/python-sets-569a3b5b81cd)
 - [Object-Oriented Programming (OOP) Concepts in Python](https://medium.com/@codeswithpankaj/mastering-object-oriented-programming-oop-concepts-in-python-28f8d5bfce7b)
 - [Python Dictionaries](https://medium.com/@codeswithpankaj/unleash-the-power-of-python-dictionaries-a-comprehensive-guide-with-examples-04adf6449de2)
-
+- [Using Python Pandas with Excel Sheets](https://codeswithpankaj.medium.com/using-python-pandas-with-excel-sheets-41642ecc7b65)
 ## SQL
 
 - [MySQL Views](https://codeswithpankaj.medium.com/exploring-mysql-views-simplifying-database-queries-with-examples-3a928a7f4893)
