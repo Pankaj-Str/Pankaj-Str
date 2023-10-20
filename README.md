@@ -77,6 +77,7 @@ Feeling like you're wandering through a coding labyrinth? Fear not, for I am her
 - [Object-Oriented Programming (OOP) Concepts in Python](https://medium.com/@codeswithpankaj/mastering-object-oriented-programming-oop-concepts-in-python-28f8d5bfce7b)
 - [Python Dictionaries](https://medium.com/@codeswithpankaj/unleash-the-power-of-python-dictionaries-a-comprehensive-guide-with-examples-04adf6449de2)
 - [Using Python Pandas with Excel Sheets](https://codeswithpankaj.medium.com/using-python-pandas-with-excel-sheets-41642ecc7b65)
+- [Data Visualization with Matplotlib in Python](https://codeswithpankaj.medium.com/mastering-data-visualization-with-matplotlib-in-python-f0f385f837b3)
 ## SQL
 
 - [MySQL Views](https://codeswithpankaj.medium.com/exploring-mysql-views-simplifying-database-queries-with-examples-3a928a7f4893)
@@ -105,7 +106,9 @@ Feeling like you're wandering through a coding labyrinth? Fear not, for I am her
 
 - [How to insert data into a MySQL table using Spring Data JPA](https://codeswithpankaj.medium.com/how-to-insert-data-into-a-mysql-table-using-spring-data-jpa-2df1a147fa9f)
 - [The JSP CRUD operation App](https://codeswithpankaj.medium.com/the-jsp-crud-operation-app-with-codes-with-pankaj-292092d51b99)
-
+- [Java Multithreading](https://codeswithpankaj.medium.com/a-deep-dive-into-java-multithreading-fd611603c8c6)
+- [Building a Login and Logout System with Java Servlets](https://codeswithpankaj.medium.com/building-a-login-and-logout-system-with-java-servlets-6b51521dfcd8)
+- [Building an Effective Todo List with Servlet: A Step-by-Step Guide](https://codeswithpankaj.medium.com/building-an-effective-todo-list-with-servlet-a-step-by-step-guide-caa9c37acb34)
 ## Node JS
 
 - [Node JS CRUD With MySQL](https://codeswithpankaj.medium.com/node-js-crud-with-mysql-f605755e9fcb)
