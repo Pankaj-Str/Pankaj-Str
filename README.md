@@ -1,5 +1,3 @@
-![banner](https://github.com/Pankaj-Str/Pankaj-Str/assets/36913690/aced67ba-cb8d-4757-abbf-3b72f189734b)
-
 <p align="center"> 
   <a href="https://twitter.com/home">
     <img src="https://img.shields.io/badge/Twitter-465149?style=for-the-badge"/>
