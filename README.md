@@ -38,9 +38,7 @@ I cultivate exceptional software engineering talent, transforming individuals in
   </a>
 </p>
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[Pankaj-str]&theme=github_dark" alt="[Pankaj Chouhan]'s GitHub Stats"/>
-</div>
+
 
 ### 🔗 [@codeswithpankaj](https://www.codeswithpankaj.com)
 ----
