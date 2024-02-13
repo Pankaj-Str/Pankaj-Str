@@ -11,7 +11,7 @@
  
 </p>
 
-<p align="center"> 
+<p align="left"> 
 🚀 Pankaj Chouhan 
 
 Feeling like you're wandering through a coding labyrinth? Fear not, for I am here to be your guide and mentor on this exhilarating journey through the digital realm.👋
