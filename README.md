@@ -121,6 +121,7 @@ I cultivate exceptional software engineering talent, transforming individuals in
 
 ## Data Science 
 - [SciPy’s ndimage Module ](https://codeswithpankaj.medium.com/a-deep-dive-into-scipys-ndimage-module-by-codes-with-pankaj-e93dcbcb8b81)
+- [Unlocking the Power of SciPy](https://codeswithpankaj.medium.com/unlocking-the-power-of-scipy-a-comprehensive-beginners-guide-aca7eb3dbb92)
   
 
 
