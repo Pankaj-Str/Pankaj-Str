@@ -117,6 +117,9 @@ I cultivate exceptional software engineering talent, transforming individuals in
 
 ## JavaScript
 - [JavaScript Shorthand Techniques for Efficient and Readable Code](https://codeswithpankaj.medium.com/javascript-shorthand-techniques-for-efficient-and-readable-code-ae64512df483)
+
+## Data Science 
+- [SciPy’s ndimage Module ](https://codeswithpankaj.medium.com/a-deep-dive-into-scipys-ndimage-module-by-codes-with-pankaj-e93dcbcb8b81)
   
 
 
