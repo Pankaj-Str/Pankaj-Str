@@ -1,4 +1,12 @@
 <p align="left"> 
+🚀 Pankaj Chouhan 
+
+Feeling like you're wandering through a coding labyrinth? Fear not, for I am here to be your guide and mentor on this exhilarating journey through the digital realm.👋
+
+I cultivate exceptional software engineering talent, transforming individuals into sought-after professionals whom companies eagerly seek to hire.
+</p>
+
+<p align="left"> 
   <a href="https://twitter.com/home">
     <img src="https://img.shields.io/badge/Twitter-465149?style=for-the-badge"/>
     
@@ -10,16 +18,6 @@
 
  
 </p>
-
-<p align="left"> 
-🚀 Pankaj Chouhan 
-
-Feeling like you're wandering through a coding labyrinth? Fear not, for I am here to be your guide and mentor on this exhilarating journey through the digital realm.👋
-
-I cultivate exceptional software engineering talent, transforming individuals into sought-after professionals whom companies eagerly seek to hire.
-</p>
-
-
 ### <p align="center">Technical Skills</p>
 
 <p align="center">
