@@ -11,7 +11,7 @@ At "Codes with Pankaj" we offer a diverse range of services to meet all your tec
 | 2. | Data Science Training|
 |----|------|
 | 3. | Redesign of Website|
-|----|------|
+
 | 4. | App Developments|
 |----|------|
 | 5. | Website Development|
