@@ -12,9 +12,9 @@ I'm Pankaj Chouhan. If coding is making you feel stuck or overwhelmed, no need t
    <a href="https://www.codeswithpankaj.com">
     <img src="https://img.shields.io/badge/Portfolio-465149?style=for-the-badge"/>
   </a>
-
- 
 </p>
+
+### 🔗 [@codeswithpankaj](https://www.codeswithpankaj.com)
 
 <p align="center">Technical Skills</p>
 
@@ -31,7 +31,7 @@ I'm Pankaj Chouhan. If coding is making you feel stuck or overwhelmed, no need t
 
 
 
-### 🔗 [@codeswithpankaj](https://www.codeswithpankaj.com)
+
 ----
 
 | Sn.No. | Tutorial Name                            |
