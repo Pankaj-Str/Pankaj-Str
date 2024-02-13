@@ -75,6 +75,7 @@ I cultivate exceptional software engineering talent, transforming individuals in
 - [Implementing Binary Search Algorithm in Python](https://codeswithpankaj.medium.com/mastering-search-a-guide-to-implementing-binary-search-algorithm-in-python-36801a753782)
 - [Building a Sudoku Game in Python with Tkinter](https://codeswithpankaj.medium.com/building-a-sudoku-game-in-python-with-tkinter-codes-with-pankaj-42b78a86834b)
 - [Understanding Python Functions](https://codeswithpankaj.medium.com/understanding-python-functions-a-comprehensive-guide-codes-with-pankaj-95cebd864bfb)
+- [Pandas read_csv() with Examples ](https://codeswithpankaj.medium.com/mastering-pandas-read-csv-with-examples-a-tutorial-by-codes-with-pankaj-96ad7c08e3b4)
 
 ## Django
 - [Django Models & Database Tutorial](https://codeswithpankaj.medium.com/django-models-database-tutorial-4ead0e6bc663)
@@ -109,6 +110,7 @@ I cultivate exceptional software engineering talent, transforming individuals in
 - [Java Multithreading](https://codeswithpankaj.medium.com/a-deep-dive-into-java-multithreading-fd611603c8c6)
 - [Building a Login and Logout System with Java Servlets](https://codeswithpankaj.medium.com/building-a-login-and-logout-system-with-java-servlets-6b51521dfcd8)
 - [Building an Effective Todo List with Servlet: A Step-by-Step Guide](https://codeswithpankaj.medium.com/building-an-effective-todo-list-with-servlet-a-step-by-step-guide-caa9c37acb34)
+- [Java Lambda Expressions](https://codeswithpankaj.medium.com/mastering-java-lambda-expressions-a-comprehensive-guide-by-codes-with-pankaj-c2ca3b141eb8)
 ## Node JS
 
 - [Node JS CRUD With MySQL](https://codeswithpankaj.medium.com/node-js-crud-with-mysql-f605755e9fcb)
