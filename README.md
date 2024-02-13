@@ -7,12 +7,7 @@
    <a href="https://www.codeswithpankaj.com">
     <img src="https://img.shields.io/badge/Portfolio-465149?style=for-the-badge"/>
   </a>
-  
 
-  
-   <a href="mailto:p4n.learning@gmail.com">
-    <img src="https://img.shields.io/badge/Email-465149?style=for-the-badge"/>
-  </a>
  
 </p>
 
