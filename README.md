@@ -15,7 +15,7 @@ I'm Pankaj Chouhan. If coding is making you feel stuck or overwhelmed, no need t
 
  
 </p>
-### 
+
 <p align="center">Technical Skills</p>
 
 <p align="center">
