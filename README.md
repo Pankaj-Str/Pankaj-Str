@@ -73,6 +73,7 @@ I cultivate exceptional software engineering talent, transforming individuals in
 - [Data Visualization with Matplotlib in Python](https://codeswithpankaj.medium.com/mastering-data-visualization-with-matplotlib-in-python-f0f385f837b3)
 - [NumPy Random](https://codeswithpankaj.medium.com/numpy-random-681071ee5abd)
 - [Implementing Binary Search Algorithm in Python](https://codeswithpankaj.medium.com/mastering-search-a-guide-to-implementing-binary-search-algorithm-in-python-36801a753782)
+- [Building a Sudoku Game in Python with Tkinter](https://codeswithpankaj.medium.com/building-a-sudoku-game-in-python-with-tkinter-codes-with-pankaj-42b78a86834b)
 
 ## Django
 - [Django Models & Database Tutorial](https://codeswithpankaj.medium.com/django-models-database-tutorial-4ead0e6bc663)
