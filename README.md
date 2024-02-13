@@ -3,7 +3,21 @@ Welcome to "Codes with Pankaj"
 Your Gateway to Comprehensive
 Tech Solutions !
 </h3>
+<p align="left">
+At "Codes with Pankaj" we offer a diverse range of services to meet all your technology needs. Led by Pankaj, our team is committed to providing top-notch solutions that empower individuals and businesses to thrive in the digital era.
 
+1. Programming Training
+
+2. Data Science Training
+
+3. Redesign of Website
+
+4. App Developments
+
+5. Website Development
+
+6. Hire Me For Training
+</p>
 <p align="left"> 
 🚀 Hey there,
 I'm Pankaj Chouhan. If coding is making you feel stuck or overwhelmed, no need to worry—I've got your back! Let's team up to improve your skills, boost your earnings, and create a brighter future together.
