@@ -1,9 +1,6 @@
 <p align="left"> 
-🚀 Pankaj Chouhan 
-
-Feeling like you're wandering through a coding labyrinth? Fear not, for I am here to be your guide and mentor on this exhilarating journey through the digital realm.👋
-
-I cultivate exceptional software engineering talent, transforming individuals into sought-after professionals whom companies eagerly seek to hire.
+🚀 Hey there,
+I'm Pankaj Chouhan. If coding is making you feel stuck or overwhelmed, no need to worry—I've got your back! Let's team up to improve your skills, boost your earnings, and create a brighter future together.
 </p>
 
 <p align="left"> 
