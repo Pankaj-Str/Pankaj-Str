@@ -91,6 +91,7 @@ I cultivate exceptional software engineering talent, transforming individuals in
 ## Tools
 
 - [10 Best AI Tools](https://codeswithpankaj.medium.com/10-best-ai-tools-to-make-money-and-grow-your-business-with-codes-with-pankaj-9c8401f85cc6)
+- [10 Unconventional Free Tools for Turbocharged Productivity](https://codeswithpankaj.medium.com/time-warp-10-unconventional-free-tools-for-turbocharged-productivity-8cb24ff75982)
 
 ## R Programming
 
