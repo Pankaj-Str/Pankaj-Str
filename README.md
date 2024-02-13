@@ -71,6 +71,9 @@ I cultivate exceptional software engineering talent, transforming individuals in
 - [Python Dictionaries](https://medium.com/@codeswithpankaj/unleash-the-power-of-python-dictionaries-a-comprehensive-guide-with-examples-04adf6449de2)
 - [Using Python Pandas with Excel Sheets](https://codeswithpankaj.medium.com/using-python-pandas-with-excel-sheets-41642ecc7b65)
 - [Data Visualization with Matplotlib in Python](https://codeswithpankaj.medium.com/mastering-data-visualization-with-matplotlib-in-python-f0f385f837b3)
+
+## Django
+- [Django Models & Database Tutorial](https://codeswithpankaj.medium.com/django-models-database-tutorial-4ead0e6bc663)
 ## SQL
 
 - [MySQL Views](https://codeswithpankaj.medium.com/exploring-mysql-views-simplifying-database-queries-with-examples-3a928a7f4893)
