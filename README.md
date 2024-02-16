@@ -42,8 +42,8 @@ I'm Pankaj Chouhan. If coding is making you feel stuck or overwhelmed, no need t
 
 ----
 
-| Sn.No. | Tutorial Name                            |
-| ------ | ---------------------------------------- |
+| Sn.No. | Tutorial Name                            | 
+| ------ | ---------------------------------------- | 
 | 1️     | [C Programming Tutorial](https://github.com/Pankaj-Str/C-Programming-Tutorial)             |
 | 2️     | [Learn JAVA SE](https://github.com/Pankaj-Str/Learn-JAVA-SE)                         |
 | 3️     | [Complete Python Mastery](https://github.com/Pankaj-Str/Complete-Python-Mastery)       |
