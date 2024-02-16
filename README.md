@@ -11,6 +11,13 @@ At "Codes with Pankaj" we offer a diverse range of services to meet all your tec
 I'm Pankaj Chouhan. If coding is making you feel stuck or overwhelmed, no need to worry—I've got your back! Let's team up to improve your skills, boost your earnings, and create a brighter future together.
 </p>
 
+| 1. | Programming Training | 
+|----|--------------------|
+| 2. | Data Science Training |
+| 3. | Redesign of Website |
+| 4. | App Developments |
+| 5. | Website Development |
+| 6. | Hire Me For Training |
 <p align="left"> 
   <a href="https://twitter.com/home">
     <img src="https://img.shields.io/badge/Twitter-465149?style=for-the-badge"/>
