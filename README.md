@@ -44,15 +44,15 @@ I'm Pankaj Chouhan. If coding is making you feel stuck or overwhelmed, no need t
 
 | Sn.No. | Tutorial Name                            |
 | ------ | ---------------------------------------- |
-| 1️⃣     | [C Programming Tutorial](https://github.com/Pankaj-Str/C-Programming-Tutorial)             |
-| 2️⃣     | [Learn JAVA SE](https://github.com/Pankaj-Str/Learn-JAVA-SE)                         |
-| 3️⃣     | [Complete Python Mastery](https://github.com/Pankaj-Str/Complete-Python-Mastery)       |
-| 4️⃣     | [SQL Tutorial](https://github.com/Pankaj-Str/SQL-tutorial)                               |
-| 5️⃣     | [Front-end Development Tutorial](https://github.com/Pankaj-Str/Front-end-Development-Tutorial) |
-| 6️⃣     | [Python Interview Questions](https://github.com/Pankaj-Str/Python-Interview-Questions)    |
-| 7️⃣     | [R Programming Tutorial](https://github.com/Pankaj-Str/R-Programming-Tutorial)           |
-| 8️⃣     | [Nodejs Concepts](https://github.com/Pankaj-Str/Nodejs-Concepts)                       |
-| 9 |[DSA - JAVA ](https://github.com/Pankaj-Str/Learn-Data-Structures-JAVA)|
+| 1️     | [C Programming Tutorial](https://github.com/Pankaj-Str/C-Programming-Tutorial)             |
+| 2️     | [Learn JAVA SE](https://github.com/Pankaj-Str/Learn-JAVA-SE)                         |
+| 3️     | [Complete Python Mastery](https://github.com/Pankaj-Str/Complete-Python-Mastery)       |
+| 4️     | [SQL Tutorial](https://github.com/Pankaj-Str/SQL-tutorial)                               |
+| 5️     | [Front-end Development Tutorial](https://github.com/Pankaj-Str/Front-end-Development-Tutorial) |
+| 6️     | [Python Interview Questions](https://github.com/Pankaj-Str/Python-Interview-Questions)    |
+| 7️     | [R Programming Tutorial](https://github.com/Pankaj-Str/R-Programming-Tutorial)           |
+| 8️     | [Nodejs Concepts](https://github.com/Pankaj-Str/Nodejs-Concepts)                       |
+| 9     |[DSA - JAVA ](https://github.com/Pankaj-Str/Learn-Data-Structures-JAVA)|
 
 
 
