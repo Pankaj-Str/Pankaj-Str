@@ -64,7 +64,7 @@ I'm Pankaj Chouhan. If coding is making you feel stuck or overwhelmed, no need t
 | 9     |[DSA - JAVA ](https://github.com/Pankaj-Str/Learn-Data-Structures-JAVA)|
 | 10     |[DSA - C++ ](https://github.com/Pankaj-Str/Data-Structures-CPP)|
 | 11 |[DSA - Python ](https://github.com/Pankaj-Str/Learn-DSA-Python)|
-
+| 12 | [Django ](https://github.com/Pankaj-Str/Django-Tutorial)|
 
 
 
