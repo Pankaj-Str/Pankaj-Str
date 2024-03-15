@@ -97,6 +97,8 @@ I'm Pankaj Chouhan. If coding is making you feel stuck or overwhelmed, no need t
 ## Django
 - [Django Models & Database Tutorial](https://codeswithpankaj.medium.com/django-models-database-tutorial-4ead0e6bc663)
 - [Mastering Django Forms add/view Data ](https://codeswithpankaj.medium.com/mastering-django-forms-a-comprehensive-guide-2b3621f1f245)
+- [Crud Create , Retrieve , Update , Delete](https://codeswithpankaj.medium.com/django-crud-create-retrieve-update-delete-codes-with-pankaj-5ad31980df3c)
+
 ## SQL
 
 - [MySQL Views](https://codeswithpankaj.medium.com/exploring-mysql-views-simplifying-database-queries-with-examples-3a928a7f4893)
