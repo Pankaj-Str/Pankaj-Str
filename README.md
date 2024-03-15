@@ -93,6 +93,7 @@ I'm Pankaj Chouhan. If coding is making you feel stuck or overwhelmed, no need t
 - [Building a Sudoku Game in Python with Tkinter](https://codeswithpankaj.medium.com/building-a-sudoku-game-in-python-with-tkinter-codes-with-pankaj-42b78a86834b)
 - [Understanding Python Functions](https://codeswithpankaj.medium.com/understanding-python-functions-a-comprehensive-guide-codes-with-pankaj-95cebd864bfb)
 - [Pandas read_csv() with Examples ](https://codeswithpankaj.medium.com/mastering-pandas-read-csv-with-examples-a-tutorial-by-codes-with-pankaj-96ad7c08e3b4)
+- [merging joining concatenating and comparing dataframes](https://codeswithpankaj.medium.com/merging-joining-concatenating-and-comparing-dataframes-in-pandas-codeswith-6f1e96b0c3e4)
 
 ## Django
 - [Django Models & Database Tutorial](https://codeswithpankaj.medium.com/django-models-database-tutorial-4ead0e6bc663)
