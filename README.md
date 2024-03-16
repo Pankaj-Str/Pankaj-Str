@@ -75,6 +75,7 @@ I'm Pankaj Chouhan. If coding is making you feel stuck or overwhelmed, no need t
 |20 |[Complete DataScience](https://github.com/Pankaj-Str/DataScience) | [Pay for Membership fee for Prime](https://github.com/sponsors/Pankaj-Str) |
 |21|[Complete Machine Learning](https://github.com/Pankaj-Str/Machine-Learning) | [Pay for Membership fee for Prime](https://github.com/sponsors/Pankaj-Str) |
 |22|[Complete Deep Learning](https://github.com/Pankaj-Str/Deep-Learning) | [Pay for Membership fee for Prime](https://github.com/sponsors/Pankaj-Str)|
+|23|[C++](https://github.com/Pankaj-Str/Learn-CPP)|Free|
 
 
 
