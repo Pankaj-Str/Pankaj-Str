@@ -72,9 +72,9 @@ I'm Pankaj Chouhan. If coding is making you feel stuck or overwhelmed, no need t
 |17|[C Interview Question ](https://github.com/Pankaj-Str/C-Interview-Questions)|Free|
 |18|[React Js](https://github.com/Pankaj-Str/ReactJS-tutorial)|Free|
 |19|[Mongo DB](https://github.com/Pankaj-Str/MongoDB-Tutorial)|Free|
-|20 |[Complete DataScience](https://github.com/Pankaj-Str/DataScience) | pay for membership fee for Prime |
-|21|[Complete Machine Learning](https://github.com/Pankaj-Str/Machine-Learning) | pay for membership fee for Prime  |
-|22|[Complete Deep Learning](https://github.com/Pankaj-Str/Deep-Learning) |pay for membership fee for Prime |
+|20 |[Complete DataScience](https://github.com/Pankaj-Str/DataScience) | [Pay for Membership fee for Prime](https://github.com/sponsors/Pankaj-Str) |
+|21|[Complete Machine Learning](https://github.com/Pankaj-Str/Machine-Learning) | [Pay for Membership fee for Prime](https://github.com/sponsors/Pankaj-Str) |
+|22|[Complete Deep Learning](https://github.com/Pankaj-Str/Deep-Learning) | [Pay for Membership fee for Prime](https://github.com/sponsors/Pankaj-Str)|
 
 
 
