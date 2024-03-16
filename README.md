@@ -51,30 +51,30 @@ I'm Pankaj Chouhan. If coding is making you feel stuck or overwhelmed, no need t
 
 ----
 
-| Sn.No. | Tutorial Name                            |
+| Sn.No. | Tutorial Name                            | Membership |
 | ------ | ---------------------------------------- | 
-| 1️     | [C Programming ](https://github.com/Pankaj-Str/C-Programming-Tutorial)             |
-| 2️     | [ JAVA SE (Core JAVA) ](https://github.com/Pankaj-Str/Learn-JAVA-SE)                         |
-| 3️     | [ Python ](https://github.com/Pankaj-Str/Complete-Python-Mastery)       |
-| 4️     | [SQL ](https://github.com/Pankaj-Str/SQL-tutorial)                               |
-| 5️     | [Front end Development ](https://github.com/Pankaj-Str/Front-end-Development-Tutorial) |
-| 6️     | [Python Interview Questions](https://github.com/Pankaj-Str/Python-Interview-Questions)    |
-| 7️     | [R Programming ](https://github.com/Pankaj-Str/R-Programming-Tutorial)           |
-| 8️     | [Nodejs ](https://github.com/Pankaj-Str/Nodejs-Concepts)                       |
-| 9     |[DSA - JAVA ](https://github.com/Pankaj-Str/Learn-Data-Structures-JAVA)|
-| 10     |[DSA - C++ ](https://github.com/Pankaj-Str/Data-Structures-CPP)|
-| 11 |[DSA - Python ](https://github.com/Pankaj-Str/Learn-DSA-Python)|
-| 12 | [Django ](https://github.com/Pankaj-Str/Django-Tutorial)|
-| 13 | [JAVA Interview Questions ](https://github.com/Pankaj-Str/Java-Interview-Questions-and-Answers)|
-| 14 | [Express JS](https://github.com/Pankaj-Str/ExpressJS-tutorial-codeswithpankaj)|
-|15|[Spring](https://github.com/Pankaj-Str/Spring-Tutorial)|
-|16|[Servlet](https://github.com/Pankaj-Str/Servlet-Tutorial)|
-|17|[C Interview Question ](https://github.com/Pankaj-Str/C-Interview-Questions)|
-|18|[React Js](https://github.com/Pankaj-Str/ReactJS-tutorial)|
-|19|[Mongo DB](https://github.com/Pankaj-Str/MongoDB-Tutorial)|
-|20 |[Complete DataScience](https://github.com/Pankaj-Str/DataScience) |
-|21|[Complete Machine Learning](https://github.com/Pankaj-Str/Machine-Learning) |
-|22|[Complete Deep Learning](https://github.com/Pankaj-Str/Deep-Learning) |
+| 1️     | [C Programming ](https://github.com/Pankaj-Str/C-Programming-Tutorial)             |Free|
+| 2️     | [ JAVA SE (Core JAVA) ](https://github.com/Pankaj-Str/Learn-JAVA-SE)                         |Free|
+| 3️     | [ Python ](https://github.com/Pankaj-Str/Complete-Python-Mastery)       |Free|
+| 4️     | [SQL ](https://github.com/Pankaj-Str/SQL-tutorial)                               |Free|
+| 5️     | [Front end Development ](https://github.com/Pankaj-Str/Front-end-Development-Tutorial) |Free|
+| 6️     | [Python Interview Questions](https://github.com/Pankaj-Str/Python-Interview-Questions)    |Free|
+| 7️     | [R Programming ](https://github.com/Pankaj-Str/R-Programming-Tutorial)           |Free|
+| 8️     | [Nodejs ](https://github.com/Pankaj-Str/Nodejs-Concepts)                       |Free|
+| 9     |[DSA - JAVA ](https://github.com/Pankaj-Str/Learn-Data-Structures-JAVA)|Free|
+| 10     |[DSA - C++ ](https://github.com/Pankaj-Str/Data-Structures-CPP)|Free|
+| 11 |[DSA - Python ](https://github.com/Pankaj-Str/Learn-DSA-Python)|Free|
+| 12 | [Django ](https://github.com/Pankaj-Str/Django-Tutorial)|Free|
+| 13 | [JAVA Interview Questions ](https://github.com/Pankaj-Str/Java-Interview-Questions-and-Answers)|Free|
+| 14 | [Express JS](https://github.com/Pankaj-Str/ExpressJS-tutorial-codeswithpankaj)|Free|
+|15|[Spring](https://github.com/Pankaj-Str/Spring-Tutorial)|Free|
+|16|[Servlet](https://github.com/Pankaj-Str/Servlet-Tutorial)|Free|
+|17|[C Interview Question ](https://github.com/Pankaj-Str/C-Interview-Questions)|Free|
+|18|[React Js](https://github.com/Pankaj-Str/ReactJS-tutorial)|Free|
+|19|[Mongo DB](https://github.com/Pankaj-Str/MongoDB-Tutorial)|Free|
+|20 |[Complete DataScience](https://github.com/Pankaj-Str/DataScience) | pay for membership fee for Prime |
+|21|[Complete Machine Learning](https://github.com/Pankaj-Str/Machine-Learning) | pay for membership fee for Prime  |
+|22|[Complete Deep Learning](https://github.com/Pankaj-Str/Deep-Learning) |pay for membership fee for Prime |
 
 
 
