@@ -1,7 +1,7 @@
 <h3 align="left">
 Welcome to "Codes with Pankaj"
 Your Gateway to Comprehensive
-Tech Solutions !  
+Tech Solutions ! 🔗 [@p4n](https://www.p4n.in) 
 </h3>
 <p align="left">
 At "Codes with Pankaj" we offer a diverse range of services to meet all your technology needs. Led by Pankaj, our team is committed to providing top-notch solutions that empower individuals and businesses to thrive in the digital era.
@@ -32,7 +32,7 @@ I'm Pankaj Chouhan. If coding is making you feel stuck or overwhelmed, no need t
 </p>
 
 ### 🔗 [@codeswithpankaj](https://www.codeswithpankaj.com)
-### 🔗 [@p4n](https://www.p4n.in)
+
 
 <p align="center">Technical Skills</p>
 
