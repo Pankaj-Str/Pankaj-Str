@@ -32,7 +32,7 @@ I'm Pankaj Chouhan. If coding is making you feel stuck or overwhelmed, no need t
 </p>
 
 ### 🔗 [@codeswithpankaj](https://www.codeswithpankaj.com)
-### 🔗 [@codeswithpankaj](https://www.codeswithpankaj.com)
+### 🔗 [@p4n](https://www.p4n.in)
 
 <p align="center">Technical Skills</p>
 
