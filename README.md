@@ -35,8 +35,15 @@ I'm Pankaj Chouhan. If coding is making you feel stuck or overwhelmed, no need t
 ### 🔗 [@codeswithpankaj](https://www.codeswithpankaj.com)
 ### 🔗 [@cwpc](https://cwpc.in/) 
 
+## Conributions
 
-<p align="center">Technical Skills</p>
+<div align="center">
+  
+![snake gif](https://github.com/lakshyajain1508/Pankaj-Str/blob/output/github-snake.svg)
+  
+</div>
+
+## Technical Skills
 
 <p align="center">
   <a href="https://www.codeswithpankaj.com">
@@ -49,10 +56,7 @@ I'm Pankaj Chouhan. If coding is making you feel stuck or overwhelmed, no need t
   </a>
 </p>
 
-
-
-
-----
+<br>
 
 | Sn.No. | Tutorial Name                            | Membership |
 | ------ | ---------------------------------------- | --------|
@@ -154,12 +158,4 @@ I'm Pankaj Chouhan. If coding is making you feel stuck or overwhelmed, no need t
 - [Unlocking the Power of SciPy](https://codeswithpankaj.medium.com/unlocking-the-power-of-scipy-a-comprehensive-beginners-guide-aca7eb3dbb92)
 - [Matrix Operations with Harnessing Efficiency with Sparse Matrices in Python ](https://codeswithpankaj.medium.com/mastering-matrix-operations-with-harnessing-efficiency-with-sparse-matrices-in-python-a-deep-5b78ded1cc7c)
 - [Data SET](https://huggingface.co/datasets)
-
-## Conributions
-
-<div align="center">
-  
-![snake gif](https://github.com/lakshyajain1508/Pankaj-Str/blob/output/github-snake.svg)
-  
-</div>
 
